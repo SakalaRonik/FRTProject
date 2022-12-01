@@ -21,7 +21,7 @@ https://blue-bay-090afba10.2.azurestaticapps.net
 
 
 ## YouTube Video that gives demo of our website:
-In this video we gave a Demo of our working Website.
+In this video we gave a Demo of our working Website.<br />
 https://youtu.be/pj63SZJgw24
 
 
@@ -30,17 +30,17 @@ https://youtu.be/pj63SZJgw24
 <img width="1440" alt="Screenshot 2022-11-21 at 6 07 20 PM" src="https://user-images.githubusercontent.com/86050985/203057391-f65c47db-501c-4720-b62c-eee4233a42b4.png">
 
 ## Group Details 
-To do this project we Akash, Ravi, Ronik Formed as group.
-Here are the details:
+To do this project we Akash, Ravi, Ronik Formed as group.<br />
+Here are the details:<br />
 
-Contributer 1:
-NMAE : AKASH PAPASANI
-linkedin profile : https://www.linkedin.com/in/akash-papasani-668417247/
+Contributer 1:<br />
+NAME : AKASH PAPASANI<br />
+linkedin profile : https://www.linkedin.com/in/akash-papasani-668417247/<br />
 
-Contributer 2:
-NMAE : RAVIKUMAR VEERAMALLA
-linkedin profile : https://www.linkedin.com/in/ravikumar-veeramalla-872154247/
+Contributer 2:<br />
+NAME : RAVIKUMAR VEERAMALLA<br />
+linkedin profile : https://www.linkedin.com/in/ravikumar-veeramalla-872154247/<br />
 
-Contributer 3:
-NMAE : RONIK KUMAR SAKALA
-linkedin profile : www.linkedin.com/in/ronik-kumar/
+Contributer 3:<br />
+NAME : RONIK KUMAR SAKALA<br />
+linkedin profile : www.linkedin.com/in/ronik-kumar/<br />
