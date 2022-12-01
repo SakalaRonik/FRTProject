@@ -8,8 +8,8 @@ https://blue-bay-090afba10.2.azurestaticapps.net
 ## Home page 
 <img width="1440" alt="Screenshot 2022-11-21 at 3 38 37 PM" src="https://user-images.githubusercontent.com/86050985/203056527-ff67cc94-e9ad-4a1d-9681-40c528bb12c3.png">
 
-# About Page
-#<img width="1440" alt="Screenshot 2022-11-21 at 3 39 00 PM" src="https://user-images.githubusercontent.com/86050985/203056590-82eecbde-6a3d-45c5-9520-91ce9cc15eb0.png">
+## About Page
+<img width="1440" alt="Screenshot 2022-11-21 at 3 39 00 PM" src="https://user-images.githubusercontent.com/86050985/203056590-82eecbde-6a3d-45c5-9520-91ce9cc15eb0.png">
 
 
 ## Service Page
