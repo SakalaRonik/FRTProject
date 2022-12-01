@@ -29,3 +29,18 @@ https://youtu.be/pj63SZJgw24
 ## Azure portal screen shot.
 <img width="1440" alt="Screenshot 2022-11-21 at 6 07 20 PM" src="https://user-images.githubusercontent.com/86050985/203057391-f65c47db-501c-4720-b62c-eee4233a42b4.png">
 
+## Group Details 
+To do this project we Akash, Ravi, Ronik Formed as group.
+Here are the details:
+
+Contributer 1:
+NMAE : AKASH PAPASANI
+linkedin profile : https://www.linkedin.com/in/akash-papasani-668417247/
+
+Contributer 2:
+NMAE : RAVIKUMAR VEERAMALLA
+linkedin profile : https://www.linkedin.com/in/ravikumar-veeramalla-872154247/
+
+Contributer 3:
+NMAE : RONIK KUMAR SAKALA
+linkedin profile : www.linkedin.com/in/ronik-kumar/
