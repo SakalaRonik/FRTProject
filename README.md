@@ -6,7 +6,8 @@ https://blue-bay-090afba10.2.azurestaticapps.net
 
 
 ## Home page 
-<img width="1440" alt="Screenshot 2022-11-21 at 3 38 37 PM" src="https://user-images.githubusercontent.com/86050985/203056527-ff67cc94-e9ad-4a1d-9681-40c528bb12c3.png">
+![Screenshot 2023-01-30 at 10 00 15 PM](https://user-images.githubusercontent.com/86050985/215536851-226e72e1-6e96-4712-98d1-20436c2a1dc6.png)
+
 
 ## About Page
 <img width="1440" alt="Screenshot 2022-11-21 at 3 39 00 PM" src="https://user-images.githubusercontent.com/86050985/203056590-82eecbde-6a3d-45c5-9520-91ce9cc15eb0.png">
@@ -18,6 +19,10 @@ https://blue-bay-090afba10.2.azurestaticapps.net
 
 ## Contact Page
 <img width="1440" alt="Screenshot 2022-11-21 at 3 40 32 PM" src="https://user-images.githubusercontent.com/86050985/203056876-c7964c65-b58d-40fa-b996-d57b7a47b61c.png">
+
+## Our Location
+This image shows our Locations, which is implemented using Azure Maps.
+![Screenshot 2023-01-30 at 10 03 46 PM](https://user-images.githubusercontent.com/86050985/215537755-5a8956f7-fa7d-4994-923e-2893c7df8a88.png)
 
 
 ## YouTube Video that gives demo of our website:
