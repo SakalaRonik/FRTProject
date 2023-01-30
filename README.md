@@ -6,7 +6,8 @@ https://blue-bay-090afba10.2.azurestaticapps.net
 
 
 ## Home page 
-![Screenshot 2023-01-30 at 10 00 15 PM](https://user-images.githubusercontent.com/86050985/215536851-226e72e1-6e96-4712-98d1-20436c2a1dc6.png)
+<img width="1440" alt="Screenshot 2022-11-21 at 3 39 00 PM" src="https://user-images.githubusercontent.com/86050985/215536851-226e72e1-6e96-4712-98d1-20436c2a1dc6.png">
+[Screenshot 2023-01-30 at 10 00 15 PM](https://user-images.githubusercontent.com/86050985/215536851-226e72e1-6e96-4712-98d1-20436c2a1dc6.png)
 
 
 ## About Page
